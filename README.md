@@ -4,7 +4,7 @@
 
 <tr>
 <td>
-<h2>VimBox</h2>
+<h2>VimBox - subho007 Diet</h2>
 <blockquote>Modern MacVim Configuration</blockquote>
 <img src="dotVim/images/VimBox.png" height="256px" width="256px" />
 </td>
