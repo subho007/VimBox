@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-PWD=$(pwd)
+git clone --recursive git@github.com:subho007/VimBox.git $HOME/.vim
+
+PWD=$HOME/.vim
 
 # first, backup any existing scripts if they are not symlinks
 if [[ -d "$HOME/.vim" && ! -L "$HOME/.vim" ]]; then
